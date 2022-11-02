@@ -97,7 +97,6 @@ private void automaticReload()
     }
 }
 ```
-
 ## Authors
 
 - [@4telly](https://www.github.com/4telly)
